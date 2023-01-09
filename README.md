@@ -1,3 +1,11 @@
+# Productivity App
+## A simple app to help you stay organized and on top of your tasks. Features include:
+
+1. Pomodoro timer to help you stay focused and work in intervals
+2. Calendar to schedule events and set reminders
+3. Todo list to keep track of your tasks and mark them as completed
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
